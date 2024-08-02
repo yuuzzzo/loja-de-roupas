@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+}
+
+@font-face {
+    font-family: boomster;
+    src: url('BOOMSTER.otf') format('opentype');
+}
+
+header{
+    padding-top: 1px;
+}
+
+div#marca{
+    text-align: center;
+}
+
+#marca > h1{
+    color: gold;
+    background-image: linear-gradient(to bottom, #080708, #C20114 60%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: black;
+    font-family: boomster;
+    font-size: 4em;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.452);
+}
+
+#marca > h2{
+    color: gold;
+    background-image: linear-gradient(to bottom, #080708, #C20114 60%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: black;
+    font-family: boomster;
+    font-size: 2em;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.452);
+}
+
+nav{
+    padding-top: 10px;
+    text-align: center;
+}
+
+nav > a{
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.567);
+    text-align: center;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.689);
+    padding: 8px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+    color: black;
+    background-color: rgb(210, 0, 0);
+}
