@@ -133,6 +133,18 @@ div#smilee > h3{
     border-radius: 5px;
 }
 
+div#catg-fem{
+    font-family: boomster;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+div#catg-masc{
+    font-family: boomster;
+    text-align: center;
+    font-size: 1.5em;
+}
+
 img#los_girl{
     width: 160px;
     margin-bottom: 10px;
