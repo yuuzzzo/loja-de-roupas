@@ -1,0 +1,242 @@
+body{
+    background-color: white;
+    margin: 0px;
+}
+
+@font-face {
+    font-family: boomster;
+    src: url('BOOMSTER.otf') format('opentype');
+}
+
+header{
+    background-attachment: fixed;
+    box-shadow: 1px 1px 3px black;
+    padding: 1px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: black;
+    font-family: boomster;
+    font-size: 1.5em;
+}
+
+main{
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+img#roses{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+div#black-roses{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+    width: 230px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 312px;
+}
+
+div#black-roses > h3{
+    color: white;
+    font-size: 1em;
+    background-color: black;
+    padding: 10px;
+    margin: 0px 5px 5px 5px;
+    border-radius: 5px;
+}
+
+img#ted{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+div#ted-streets{
+    margin-left: 41px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+    width: 230px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 325px;
+}
+
+div#ted-streets > h3{
+    height: 85px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0px 5px 21px 5px;
+    border-radius: 5px;
+}
+
+img#manfinity{
+    width: 160px;
+    margin-bottom: 10px;
+}
+
+div#finity{
+    margin-left: 41px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+    width: 230px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 323px;
+}
+
+div#finity > h3{
+    height: 70px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0px 5px 0px 5px;
+    border-radius: 5px;
+}
+
+img#smile{
+    width: 160px;
+    margin-bottom: 10px;
+}
+
+div#smilee{
+    margin-left: 41px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+    width: 230px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 323px;
+}
+
+div#smilee > h3{
+    height: 70px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0px 5px 0px 5px;
+    border-radius: 5px;
+}
+
+img#los_girl{
+    width: 160px;
+    margin-bottom: 10px;
+}
+
+div#losgirl{
+    margin-left: 41px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+    width: 230px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 353px;
+}
+
+div#losgirl > h3{
+    height: 90px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0px 5px 21px 5px;
+    border-radius: 5px;
+}
+
+img#love-giirl{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+div#lovegirl{
+    margin-left: 41px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+    width: 230px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 310px;
+}
+
+div#lovegirl > h3{
+    height: 70px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0px 5px 0px 5px;
+    border-radius: 5px;
+}
+
+img#anime{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+div#anime-girl{
+    margin-left: 41px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+    width: 230px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 320px;
+}
+
+div#anime-girl > h3{
+    height: 80px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0px 5px 0px 5px;
+    border-radius: 5px;
+}
+
+img#playboi-girl{
+    width: 230px;
+    margin-bottom: 10px;
+}
+
+div#playboi{
+    margin-left: 41px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+    width: 255px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 380px;
+}
+
+div#playboi > h3{
+    height: 110px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0px 5px 0px 5px;
+    border-radius: 5px;
+}
