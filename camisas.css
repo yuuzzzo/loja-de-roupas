@@ -41,6 +41,7 @@ div#black-roses{
     border: 3px solid black;
     border-radius: 10px;
     height: 312px;
+    box-shadow: 1px 1px 3px black;
 }
 
 div#black-roses > h3{
@@ -67,6 +68,7 @@ div#ted-streets{
     border: 3px solid black;
     border-radius: 10px;
     height: 325px;
+    box-shadow: 1px 1px 3px black;
 }
 
 div#ted-streets > h3{
@@ -94,6 +96,7 @@ div#finity{
     border: 3px solid black;
     border-radius: 10px;
     height: 323px;
+    box-shadow: 1px 1px 3px black;
 }
 
 div#finity > h3{
@@ -121,6 +124,7 @@ div#smilee{
     border: 3px solid black;
     border-radius: 10px;
     height: 323px;
+    box-shadow: 1px 1px 3px black;
 }
 
 div#smilee > h3{
@@ -137,12 +141,14 @@ div#catg-fem{
     font-family: boomster;
     text-align: center;
     font-size: 1.5em;
+    text-shadow: 0px 0px 1px black;
 }
 
 div#catg-masc{
     font-family: boomster;
     text-align: center;
     font-size: 1.5em;
+    text-shadow: 0px 0px 1px black;
 }
 
 img#los_girl{
@@ -160,6 +166,7 @@ div#losgirl{
     border: 3px solid black;
     border-radius: 10px;
     height: 353px;
+    box-shadow: 1px 1px 3px black;
 }
 
 div#losgirl > h3{
@@ -187,6 +194,7 @@ div#lovegirl{
     border: 3px solid black;
     border-radius: 10px;
     height: 310px;
+    box-shadow: 1px 1px 3px black;
 }
 
 div#lovegirl > h3{
@@ -214,6 +222,7 @@ div#anime-girl{
     border: 3px solid black;
     border-radius: 10px;
     height: 320px;
+    box-shadow: 1px 1px 3px black;
 }
 
 div#anime-girl > h3{
@@ -241,6 +250,7 @@ div#playboi{
     border: 3px solid black;
     border-radius: 10px;
     height: 380px;
+    box-shadow: 1px 1px 3px black;
 }
 
 div#playboi > h3{
@@ -251,4 +261,18 @@ div#playboi > h3{
     padding: 10px;
     margin: 0px 5px 0px 5px;
     border-radius: 5px;
+}
+
+footer{
+    background-color: black;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(128, 128, 128, 0.671);
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer > mark{
+    background-color: green;
 }
