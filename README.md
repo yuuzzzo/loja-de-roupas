@@ -1,11 +1,3 @@
-# Meu primeiro repositorio remoto
+# SITE DE COMPRA DE ROUPAS
 
-Este foi o meu primeiro repositorio remoto criado para trabalhar com o GitHub!
-
-## Conhecimentos envolvidos
-
-- Git
-- GitHub
-- SSH
-
-Confira meu perfil em: [Yuri Luiz] (https://github.com/YuriLuiz1)
+## Esse site consiste em simular uma loja de roupas do estilo underground, fique avontade para explorar
