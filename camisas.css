@@ -20,11 +20,44 @@ header{
     font-size: 1.5em;
 }
 
+nav{
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 22px;
+}
+
+nav > a{
+    font-size: 1.7em;
+    font-family: boomster;
+    text-align: center;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.597);
+    padding: 8px;
+    border-radius: 10px;
+}
+
+a:hover{
+    color: rgba(255, 255, 255, 0.597);
+    background-color: rgb(102, 102, 102);
+    box-shadow: 1px 1px 3px black;
+}
+
+hr{
+    border: 3px solid rgba(255, 255, 255, 0.688);
+    border-radius: 15px;
+    width: 700px;
+}
+
 main{
     margin: 20px;
     padding: 10px;
     display: flex;
     justify-content: center;
+    background-color: rgba(128, 128, 128, 0.76);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0px 400px 40px 400px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.738);
 }
 
 img#roses{
@@ -41,7 +74,8 @@ div#black-roses{
     border: 3px solid black;
     border-radius: 10px;
     height: 312px;
-    box-shadow: 1px 1px 3px black;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.501);
+    background-color: rgba(234, 234, 234, 0.892);
 }
 
 div#black-roses > h3{
@@ -68,7 +102,8 @@ div#ted-streets{
     border: 3px solid black;
     border-radius: 10px;
     height: 325px;
-    box-shadow: 1px 1px 3px black;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.501);
+    background-color: rgba(234, 234, 234, 0.892);
 }
 
 div#ted-streets > h3{
@@ -96,7 +131,8 @@ div#finity{
     border: 3px solid black;
     border-radius: 10px;
     height: 323px;
-    box-shadow: 1px 1px 3px black;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.501);
+    background-color: rgba(234, 234, 234, 0.892);
 }
 
 div#finity > h3{
@@ -124,7 +160,8 @@ div#smilee{
     border: 3px solid black;
     border-radius: 10px;
     height: 323px;
-    box-shadow: 1px 1px 3px black;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.501);
+    background-color: rgba(234, 234, 234, 0.892);
 }
 
 div#smilee > h3{
@@ -166,7 +203,8 @@ div#losgirl{
     border: 3px solid black;
     border-radius: 10px;
     height: 353px;
-    box-shadow: 1px 1px 3px black;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.501);
+    background-color: rgba(234, 234, 234, 0.892);
 }
 
 div#losgirl > h3{
@@ -194,7 +232,8 @@ div#lovegirl{
     border: 3px solid black;
     border-radius: 10px;
     height: 310px;
-    box-shadow: 1px 1px 3px black;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.501);
+    background-color: rgba(234, 234, 234, 0.892);
 }
 
 div#lovegirl > h3{
@@ -222,7 +261,8 @@ div#anime-girl{
     border: 3px solid black;
     border-radius: 10px;
     height: 320px;
-    box-shadow: 1px 1px 3px black;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.501);
+    background-color: rgba(234, 234, 234, 0.892);
 }
 
 div#anime-girl > h3{
@@ -250,7 +290,8 @@ div#playboi{
     border: 3px solid black;
     border-radius: 10px;
     height: 380px;
-    box-shadow: 1px 1px 3px black;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.501);
+    background-color: rgba(234, 234, 234, 0.892);
 }
 
 div#playboi > h3{
